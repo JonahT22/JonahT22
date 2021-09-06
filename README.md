@@ -1,16 +1,18 @@
-### Hi there 👋
+## Howdy! 👋
 
-<!--
-**JonahT22/JonahT22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jonah, I'm an undergraduate student in Computer Engineering at Texas A&M, with interest areas in Computer Graphics and Game Development.
 
-Here are some ideas to get you started:
+### Featured Project: Homemade Path Tracer
+<p align="center">
+	<a href="https://github.com/JonahT22/My-First-Path-Tracer"><img src="./image_src/cornellbox.png" width="150px"></a>
+	<br>
+	<a href="https://github.com/JonahT22/My-First-Path-Tracer">Check it out</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🌱 I’m currently learning how to use Machine Learning to de-noise images rendered from my homemade monte-carlo path tracer
+- 💬 Ask me about Game Design, and movie fight scenes 🎬
+- 📫 How to reach me: Send me a message on LinkedIn!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like marching band so much that I spent 5 summers touring across the USA in the DCI World Championships. ([It was completely worth it!](https://youtu.be/LCxm7BtWmSw?t=119))
